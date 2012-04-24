@@ -6,3 +6,4 @@ And I added another line
 Post branch first commit.
 This is the second post branch commit, which should not be merged.
 This is the second bug fix.
+This is the third bug fix.
